@@ -9,6 +9,8 @@ After quickly reviewing few DL architectures, specifically UNet implementation, 
 - [DL in Satellite Imaging](https://www.frontiersin.org/articles/10.3389/frai.2020.534696/full) 
 - [Descartes Lab Platform](https://www.descarteslabs.com/platform/)
 - [Orbital Insight Platform](https://orbitalinsight.com/geospatial-technology)
+- [Eagleview Platform](https://www.eagleview.com/product/eagleview-reveal/)
+- [Spaceknow Platform](https://spaceknow.com)
 - [SpaceNet Datasets and Challenges](https://spacenet.ai) 
 - [Overview - Azavea-RasterVision](MLinRS_ToolsPackages.pdf)
 
