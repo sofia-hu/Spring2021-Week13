@@ -1,9 +1,9 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week1: Overview of satellite imaging
+## Week13: A case study: Azavea
 
-This repository contains:
+This week, we will learn about "Azavea RasterVision", an open source framework for deep learning in Satellite Imaging. We will walk over a complete example that includes installation, an example script for training and testing, and application of semantic segmentation using a pre-trained model. As part of this practical session we will also learn about two other useful and emerging tools, "Docker" and "QGIS". 
 
-- [Overview of remote sensing](w1_RS.pdf)
-- [Activities: Sentinel Playground](w1_SentinelHub.ipynb)
-- [Homework Assignment #1](HW1.ipynb)
+- [Overview - Azavea-RasterVision](MLinRS_ToolsPackages.pdf)
+
+Final Poll: https://forms.gle/XR38yT8RywfmVzrq8
