@@ -6,6 +6,8 @@ After quickly reviewing few DL architectures, specifically UNet implementation, 
 
 - [UNet implementation](https://keras.io/examples/vision/oxford_pets_image_segmentation) 
 - [Generative Adverserial Networks](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)
+- [DL in Satellite Imaging](https://www.frontiersin.org/articles/10.3389/frai.2020.534696/full) 
+- [SpaceNet Datasets and Challenges](https://spacenet.ai) 
 - [Overview - Azavea-RasterVision](MLinRS_ToolsPackages.pdf)
 
 Final Poll: https://forms.gle/i7mPww7zeyYbMT776
